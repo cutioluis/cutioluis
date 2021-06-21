@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cutioluis
+- 👀 I’m interested in Platzi 
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on Seplom Studio
