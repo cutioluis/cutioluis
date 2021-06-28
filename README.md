@@ -1,6 +1,7 @@
 ## Hello World 👋
 #### I am a Frontend Developer and Ui/Ux Designer
 •🔭 Working on multiple frontend and backend project using React and Nodejs
+</br>
 •🌱 Learning Adobe xd
 <br>
 
