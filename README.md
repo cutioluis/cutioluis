@@ -2,7 +2,7 @@
 #### I am a Frontend Developer and Ui/Ux Designer
 •🔭 Working on multiple frontend and backend project using React and Nodejs
 </br>
-•🌱 Learning Adobe xd
+•🌱 Learning Next.js <3
 <br>
 
 
