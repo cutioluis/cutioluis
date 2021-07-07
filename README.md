@@ -1,15 +1,10 @@
-## Hi i am Luis  👋
+# Hi I am Luis  👋
 #### I am a Frontend Developer and Ui/Ux Designer
 •🔭 Working on multiple frontend and backend project using React and Nodejs
 </br>
 •🌱 Learning Next.js <3
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 ### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luis-miguel-cutiopala-b27198213)
