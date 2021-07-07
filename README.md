@@ -4,7 +4,7 @@
 </br>
 •🌱 Learning Next.js <3
 <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutioluis)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 
