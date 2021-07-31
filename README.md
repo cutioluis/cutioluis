@@ -6,10 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/cutioluis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cutioluis" height="30" width="40" /></a>
-<a href="https://twitter.com/cutioluis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cutioluis" height="30" width="40" /></a>
+<a href="https://dev.to/cutioluis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cutioluis" height="20" width="30" /></a>
+<a href="https://twitter.com/cutioluis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cutioluis" height="20" width="30" /></a>
 </p>
-<a href="https://linkedin.com/in/luis-cutiopala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-cutiopala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-cutiopala-b27198213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-cutiopala" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
