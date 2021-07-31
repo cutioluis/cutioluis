@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-<p align="left"> <a href="https://twitter.com/cutioluis" target="blank"><img src="https://img.shields.io/twitter/follow/cutioluis?logo=twitter&style=for-the-badge" alt="cutioluis" /></a> </p>
-
 - 🔭 I’m currently working on [Seplom](https://github.com/cutioluis/Seplom)
 
 - 🌱 I’m currently learning **Next.js**
