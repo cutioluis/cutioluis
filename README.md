@@ -4,7 +4,7 @@ I'm Luis from Ecuador, and I am Frontend Developer. I really enjoy learning lang
 
 - 🔭 I’m currently working on [Seplom](https://github.com/cutioluis/Seplom)
 - 🌱 I’m currently learning **Next.js**
-- 
+
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
