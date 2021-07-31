@@ -9,7 +9,7 @@
 
 ## Skills and Experience
 * ⚛ React
-* 📱 React Native
+* 🎨 Figma, Adobe XD
 * 💻 HTML, CSS, JS, TS, 
 
 ## Examples of Work
