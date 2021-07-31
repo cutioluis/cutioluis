@@ -10,6 +10,6 @@
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS, TS, 
 
 ## Examples of Work
