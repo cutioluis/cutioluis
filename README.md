@@ -5,7 +5,7 @@
 <br/>
 
 - 🔭 I’m currently working on [Seplom](https://github.com/cutioluis/Seplom)
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node**
 
 ## Skills and Experience
 * ⚛ React
