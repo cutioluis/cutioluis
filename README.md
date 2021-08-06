@@ -10,6 +10,6 @@
 ## Skills and Experience
 * ⚛ React
 * 🎨 Figma, Adobe XD
-* 💻 HTML, CSS, JS, TS, 
+* 💻 HTML, CSS, JS
 
 ## Examples of Work
