@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 style={{background: 'red'} align="center">Frontend Developer</h3>
-<p align="center">I'm Luis from Ecuador, and I am <b>Frontend Developer Junior</b>. I really enjoy learning languages and frameworks like React and GSAP,I usually find myself working in                     <a href="https://github.com/cutioluis/Seplom ">Seplom</a>
+<p align="center">Me encanta crear aplicaciones Web que tengan un gran impacto, Normalmente me encuentro trabajando en                     <a href="https://github.com/cutioluis/Seplom ">Seplom.</a>
 </p>
 
 <br/>
