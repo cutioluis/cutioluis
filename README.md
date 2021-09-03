@@ -4,11 +4,12 @@
 </p>
 
 <br/>
-  
+ 
+ ## Work
 - 🔭 I’m currently working on [Seplom](https://github.com/cutioluis/Seplom)
 - 🌱 I’m currently learning **Next.js** 
 
-## Skills and Experience
+## Skills
 * ⚛ React
 * 🎨 Figma, Adobe XD
 * 💻 HTML, CSS, JS
