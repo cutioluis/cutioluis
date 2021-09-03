@@ -13,4 +13,3 @@
 * 🎨 Figma, Adobe XD
 * 💻 HTML, CSS, JS
 
-## Examples of Work
