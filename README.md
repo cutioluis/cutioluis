@@ -6,7 +6,7 @@ Hi I'm Luis - Passionate Frontend Developer and Ui/Ux Design with 2 years of exp
 
 ## 🖖 Get in touch
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-cutiopala/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-cutiopala-b27198213/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:l.qqbadze@gmail.com)](mailto:l.cutioluis@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cutioluis)
 
