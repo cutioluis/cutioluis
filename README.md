@@ -1,16 +1,13 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Luis</h1>
-<h3 style={{background: 'red'} align="center">Frontend Developer</h3>
-<p align="center">Love JS, love writting dev article and share my knowledges</p>
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Luis Cutiopala - @Seplom
+Hi I'm Luis - Passionate Frontend Developer and Ui/Ux Design with 2 years of experience, I love creating amazing websites that people enjoy from start to finish.
 
-<br/>
- 
- ## Work
-- 🔭 I’m currently working at [Seplom](https://github.com/cutioluis/Seplom)
-- 🌱 I’m currently learning **Next.js** 
+## 📜 Latest blog posts
+- [Top 10 sites / extensions you should use if you are a Frontend Developer](https://dev.to/cutioluis/top-10-sites-extensions-you-should-use-if-you-are-a-frontend-developer-1110)
 
-## Skills
-* ⚛ React
-* 🎨 Figma, Adobe XD
-* 💻 HTML, CSS, JS
+## 🖖 Get in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-cutiopala/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:l.qqbadze@gmail.com)](mailto:l.cutioluis@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cutioluis)
+
 
