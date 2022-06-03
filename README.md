@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Luis Cutiopala - @Seplom
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Luis Cutiopala - @Seplom
 Hi I'm Luis - I’m currently working on web and mobile development with technologies like JavaScript, React, Nextjs, etc.
 ## 📜 Latest blog posts
 - [Top 10 sites / extensions you should use if you are a Frontend Developer](https://dev.to/cutioluis/top-10-sites-extensions-you-should-use-if-you-are-a-frontend-developer-1110)
